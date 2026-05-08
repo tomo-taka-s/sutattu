@@ -1,5 +1,5 @@
 // ★ バージョン番号：更新時にここを変更するだけで自動適用されます
-const VERSION = 'statcourt-v2';
+const VERSION = 'statcourt-v3';
 const CACHE = VERSION;
 const FILES = [
   './',
